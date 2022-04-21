@@ -1,4 +1,5 @@
 # Portuguese ABNT2 Layout for 104 and 105 keys keyboards
+(Not yet usable)
 A variant of Brasil ABNT2 Keyboard for 104 and 105 keys keyboards, optimized for both multilingual writing and programming.
 
 - 105 Key Layout
